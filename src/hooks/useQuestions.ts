@@ -15,7 +15,7 @@ export interface QuestionState extends Question {
 }
 
 const useQuestions = (amount: number, category: number) => {
-  const endpoint = `https://opcventdb.com/api.php?amount=${amount}&category=${category}&type=multiple`;
+  const endpoint = `https://opentdb.com/api.php?amount=${amount}&category=${category}&type=multiple`;
   const shuffleAnswers = (array: string[]) => [
     ...array.sort(() => Math.random() - 0.5),
   ];
