@@ -9,8 +9,8 @@
 
 # Differences between this quiz and the previous quiz
 
-   The performance of this program is similar to the quiz app that was created before.  in this app, used Zustand library to manage client side states and React Query to manage server side states, while in the previous quiz app, Context was used.
-   Also, i used tailwind css library for styling instead of bootstrap and some of the codes have been more formmated, organized and updated.
+   The performance of this app is similar to the quiz app that was created before.  in this app, used Zustand library to manage client side states and React Query to manage server side states, while in the previous quiz app, Context was used.
+   Also, i used tailwind css for styling instead of bootstrap and some of the codes have been more formmated, organized and updated.
 
 
 # Link
